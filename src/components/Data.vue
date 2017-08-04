@@ -27,7 +27,8 @@ export default {
     fetchItems() {
       this.items = []
       this.type = this.$route.params.type
-      let initial_ids =[1,13,14]
+      let initial_ids =[Math.floor(Math.random() * 63) + 1,Math.floor(Math.random() * 63) + 1,Math.floor(Math.random() * 63) + 1]
+      //random initial_ids 1 to 63
 
       for (let i in initial_ids) {
         let id = initial_ids[i]
