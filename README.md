@@ -1,6 +1,7 @@
 # starbase-router
 -----
-
+## 畫面
+![image](https://github.com/luke84320136/Vue-web-app-starbase-router/blob/master/star-base-router.gif)
 
 
 ## 安裝＆使用
