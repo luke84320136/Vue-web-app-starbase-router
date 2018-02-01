@@ -1,8 +1,9 @@
 # starbase-router
+-----
 
-> A Vue.js project
 
-## Build Setup
+
+## 安裝＆使用
 
 ``` bash
 # install dependencies
